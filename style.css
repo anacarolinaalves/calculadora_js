@@ -1,0 +1,21 @@
+.calculadora {
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(165, 160, 160, 0.473);
+     
+}
+
+.display {
+    width: 100px;
+    margin-bottom: auto;
+    background-color: rgb(168, 231, 231);
+    
+}
+
+.numeros {
+    
+    width: 102px;
+    text-align: center;
+    
+}
