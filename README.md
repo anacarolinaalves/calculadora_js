@@ -1,1 +1,1 @@
-# calculadora_js
+Calculadora simples desenvolvida em JavaScript para realizar operações matemáticas básicas diretamente no navegador. Utiliza HTML, CSS e JavaScript para construir a interface interativa, permitindo ao usuário inserir números e operadores para obter resultados instantâneos.
